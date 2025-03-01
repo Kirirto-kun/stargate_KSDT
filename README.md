@@ -4,10 +4,7 @@
 
 Check out our real-time graph visualization demo in the video below:
 
-<video width="600" controls>
-  <source src="Graphs_Stargate_Rocketry.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[![Watch the video](https://i.sstatic.net/Vp2cE.png)]([https://youtu.be/vt5fpE0bzSY](https://youtu.be/j9LDdUZ7JpY))
 
 > *For the best experience, download and watch the video in high resolution.*
 
