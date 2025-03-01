@@ -4,7 +4,7 @@
 
 Check out our real-time graph visualization demo in the video below:
 
-![Dynamic Graphs - Stargate Rocketry](Динамичные%20графики%20-%20Stargate%20Rocketry.mp4)
+![Dynamic Graphs - Stargate Rocketry](Graphs_Stargate_Rocketry.mp4)
 
 > *For the best experience, download and watch the video in high resolution.*
 
